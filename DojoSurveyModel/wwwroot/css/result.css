@@ -1,0 +1,19 @@
+.wrapper {
+    width: 1000px;
+    border: 1px solid black;
+    padding: 25px;
+    margin-top: 20px;
+}
+
+* {
+    margin: auto;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+span {
+    display: block;
+    font-weight: bold;
+}

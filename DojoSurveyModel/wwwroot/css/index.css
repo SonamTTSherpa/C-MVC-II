@@ -1,0 +1,14 @@
+.wrapper {
+    width: 1000px;
+    border: 1px solid black;
+    padding: 25px;
+    margin-top: 20px;
+}
+
+* {
+    margin: auto;
+}
+
+.btn {
+    margin-left: 870px;
+}
